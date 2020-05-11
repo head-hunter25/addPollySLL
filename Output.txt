@@ -1,0 +1,65 @@
+***MENU***
+0: Exit
+1: Enter the First Expression
+2: Enter the Second Expression
+3: Display the First Expression
+4: Display the Second Expression
+5: Display the Final Expression after Summation
+6: Add the First and the Second Expression
+1
+Enter the degree of Equation :2
+Enter the value for x^0
+7
++7x^0
+Enter the value for x^1
+-4
+-4x^1+7x^0
+Enter the value for x^2
+3
++3x^2-4x^1+7x^0
+***MENU***
+0: Exit
+1: Enter the First Expression
+2: Enter the Second Expression
+3: Display the First Expression
+4: Display the Second Expression
+5: Display the Final Expression after Summation
+6: Add the First and the Second Expression
+2
+Enter the degree of Equation :1
+Enter the value for x^0
+2
++2x^0
+Enter the value for x^1
+9
++9x^1+2x^0
+***MENU***
+0: Exit
+1: Enter the First Expression
+2: Enter the Second Expression
+3: Display the First Expression
+4: Display the Second Expression
+5: Display the Final Expression after Summation
+6: Add the First and the Second Expression
+3
+3x^2-4x^1+7x^0
+***MENU***
+0: Exit
+1: Enter the First Expression
+2: Enter the Second Expression
+3: Display the First Expression
+4: Display the Second Expression
+5: Display the Final Expression after Summation
+6: Add the First and the Second Expression
+4
+9x^1+2x^0
+***MENU***
+0: Exit
+1: Enter the First Expression
+2: Enter the Second Expression
+3: Display the First Expression
+4: Display the Second Expression
+5: Display the Final Expression after Summation
+6: Add the First and the Second Expression
+6
+3x^2+5x^1+9x^0
