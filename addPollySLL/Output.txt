@@ -1,0 +1,27 @@
+Enter the 1st polynomial
+Enter the coefficent 
+3
+Enter the exponent
+2
+Enter the coefficent 
+-4
+Enter the exponent
+1
+Enter the coefficent 
+7
+Enter the exponent
+0
+Enter the 2nd polynomial
+Enter the coefficent 
+9
+Enter the exponent
+1
+Enter the coefficent 
+2
+Enter the exponent
+0
+1st Polynomial: +3x^2-4x^1+7x^0
+2nd Polynomial: +9x^1+2x^0
+Polymials added +3x^2+5x^1+9x^0
+Enter y to continue 
+
